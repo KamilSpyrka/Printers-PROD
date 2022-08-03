@@ -3,6 +3,7 @@
     <head>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet">
+      <title>Printers</title>
     </head>
     <router-view />
   </div>
